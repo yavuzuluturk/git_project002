@@ -13,6 +13,8 @@ public class FirstClass {
 	 	 System.out.println("This is the second commit from remote master");
 	 	 
 	 	 System.out.println("First commit from yavuz branch");
+	 	 
+	 	 System.out.println("The second commit from local yavuz");
 	}
 
 }
